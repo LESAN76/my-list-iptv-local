@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:42,CANAL 10 NI
+https://d3ipg70a550hmx.cloudfront.net/0_2/index.m3u8
+#EXTINF:24,TN8 NI
+#EXTVLCOPT:network-caching=1000
+https://streamingcws30.com/tn8/videotn8/playlist.m3u8
+#EXTINF:11,Canal 12 NI
+http://45.228.234.9:8000/play/a06s/index.m3u8
+#EXTINF:24,WTV NI
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
+#EXTINF:0,MegaBox NI
+https://hdbox.chunklistv.com/live?stream=megabox
+#EXTINF:0,TV ONE NI
+https://hdbox.chunklistv.com/live?stream=tvone
+
+
+#EXTINF:30,La Top 102.9 HN
+https://59d39900ebfb8.streamlock.net/top102/top102/chunklist_w158330627.m3u8
+#EXTINF:25,La Top 107.7 HN
+https://59d39900ebfb8.streamlock.net/top107/top107/chunklist_w1942891723.m3u8
+#EXTINF:30,Ideal FM 104.7 HN
+https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:24,TeleMas  HN
+https://s.emisoras.tv:8081/telemas/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:80,88STEREO CR
+https://s1.tvdatta.com:3972/live/88stereolive.m3u8
+#EXTINF:41,IQ CHANNEL CR
+https://rtmp.info/iqtv/envivo/playlist.m3u8?hls_ctx=22w6047v
+#EXTINF:200,LA POTENTE RADIOTV CR
+https://latamvdo.com:3626/hybrid/play.m3u8
+#EXTINF:30,NICOYA TV CR
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w356718891.m3u8
+#EXTINF:30,TICAVISION CR
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w944160322.m3u8
+#EXTINF:29,URBANO TV CR
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/chunklist_w66326801.m3u8
+#EXTINF:30,VM LATINO CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1931294540.m3u8
+#EXTINF:24,ZURQUI TV CR
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+#EXTINF:23,Dreiko TV PA
+https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
+#EXTINF:56,Mas23 TV PA
+https://movil.ejeserver.com/live/mas23tv.m3u8
+
+#EXTINF:20,Cinemax LA US
+https://streaming.onnethn.com/CINEMAX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:60,CNN Esp US
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist720p.m3u8
+#EXTINF:60,Discovery Turbo US
+https://amg00136-wbd-amg00136c57-vizio-us-8927.playouts.now.amagi.tv/playlist720p.m3u8
+#EXTINF:60,F1 TV US
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist720p.m3u8
+#EXTINF:89,Galavision East US
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast-audio_eng=128000-video=4000000.m3u8
+#EXTINF:83,Galavision West US
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+#EXTINF:24,HBO US
+https://streaming.onnethn.com/HBO/tracks-v1a1/mono.ts.m3u8
+#EXTINF:24,HTV US
+https://streaming.onnethn.com/HTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:59,Love Nature US
+https://amg01515-amg01515c17-vizio-us-10418.playouts.now.amagi.tv/720p-spa/index.m3u8
+#EXTINF:54,MotoGP US
+https://d1kqz1q7knpsue.cloudfront.net/720p-vtt/index.m3u8
+#EXTINF:54,N+ Univision US
+https://linear-254.frequency.stream/mt/vizio/254/hls/master/playlist_1280x720.m3u8
+#EXTINF:114,Telemundo Ahora US
+https://pb-21qh1uz4mmkrs.akamaized.net/master_3.m3u8
+#EXTINF:60,MayDay Air Disaster US
+https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist_1280x720.m3u8
+#EXTINF:60,Sony Movies US
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+#EXTINF:60,Speed Vision US
+https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist_1280x720.m3u8
+#EXTINF:120,Telemundo Accion US
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_3.m3u8
+#EXTINF:96,TheWeatherChannel US
+https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/chunks.m3u8
+#EXTINF:54,TheOldHouseMakers Channel US
+https://d1v8bveimipl8w.cloudfront.net/720p-vtt/index.m3u8
+#EXTINF:23,ToonCast US
+https://streaming.onnethn.com/TOONCAST/tracks-v1a1/mono.ts.m3u8
+#EXTINF:60,TopRanking US
+https://amg02359-amg02359c1-vizio-us-9209.playouts.now.amagi.tv/playlistR720P.m3u8
+#EXTINF:48,Torque by History US
+https://pb-57ztemps4qd39.akamaized.net/v1/aenetworks_torque_1/samsungheadend_us/V00000004/0/HLS/playlist_3000k_20261013T134345.m3u8
+#EXTINF:60,Transformers US
+https://amg00461-eone-amg00461c1-vizio-us-5752.playouts.now.amagi.tv/playlist_fc18f0fd_b87349fa.m3u8
+#EXTINF:89,TUDN US
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=4000000.m3u8
+#EXTINF:83,Univision East US
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast-audio_eng=128000-video=4000000.m3u8
+#EXTINF:83,Univision West US
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest-audio_eng=128000-video=4000000.m3u8
+#EXTINF:54,VEVO 80s US
+https://amg00056-vevotv-vevo80s-vizious-qj27c.amagi.tv/ts-us-w2-n2/playlist/amg00056-vevotv-vevo80s-vizious/cb573d18796c678e99d43878d1f44082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a87e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae10b10896ea8e4011d9c7c13fa83439fd501e984805e8310d375a5169495f882d31380e4c159816f639f943a581facb33bfefc53bfce9f6d79af6529521b4694dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935e47aea39ec612f863f2368407b02c11b84bdc352a4651eb4b25b7f5c9c6bfeb0e0de7233bafe1d7b46ce62e2ef4a529fd0c40e8dcf1997f976cbe429550fc99f41948aa1c3c184cd1bcc6b9a9cb4af344c18375f429e0bf6d32dfa39cd74adf91623774450e2cf0693c88a08702a64aeb473f85f5bb5d280869f293ec96b1413a843d1490a61c97b3d29bd63a9d46c22d9663984333ce9517ad511abf67fa3d5ae8f6c0cbcd0c34de87cafe45aa0912c9d2d6d094ce3886f35236b72dfe96a084a09e04df6dcc7e4374440dbfec3facf442b455e33571f80f6e86091ed91784df6a0c6c9a2cc76bdceb4facdef6ff648a4cd0e078dd7ea/110/1280x720_3343260/index.m3u8
+#EXTINF:54,VEVO 90s US
+https://amg00056-vevotv-vevo90s-vizious-j79s1.amagi.tv/ts-us-w2-n2/playlist/amg00056-vevotv-vevo90s-vizious/cb573d18796c678e99d43878d1f44082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a87e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f9e80e43dc6af3e3011d9c7c13fa83439fd501b2d6d3588315d723a5149896a6ded61885e4c159816f639f943a581facb33bfefc53bfce9f6d79af6529521b4694dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935e47aea39ec612f863f2368407b02c11b84bdc352a4651eb4b25b7f5c9c6bfeb0e0de7233bafe1d7b46ce62e2ef4a529fd0c40e8dcf1997f976cbe429550fc99f41948aa1c3c184cd1bcc6b9a9cb4af344c18375f429e0bf6d32dfa39cd74adf91623774450e2cf0693c88a08702a64aeb473f85f5bb5d280869f293ec96b1413a843d1490a61c97b3d29bd63a9d46c22d9663984333ce9517ad511abf67fa3d5ae8f6c0cbcd0c34de87cafe45aa0912c9d2d6d094ce3886f35236b72dfe96a084a09e04df6dcc7e4374440dbfec3facf442b455e33571f80f6e86091ed917c45f6a0add6a2cc7663bf78c79c9ca4e86445f1047e372344/158/1280x720_3343260/index.m3u8
+#EXTINF:60,VEVO Latino US
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist1280x720p.m3u8
+#EXTINF:12,Vision Latino NetWork US
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/source/index.m3u8
+
+#EXTINF:60,El Chavo TV MX
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
+#EXTINF:24,Las Estrellas LA MX
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/tracks-v1a1/mono.ts.m3u8
